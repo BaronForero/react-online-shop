@@ -1,0 +1,28 @@
+.container_header_img{
+    width: 90%;
+    margin: 10vh auto;
+}
+
+.container_header_img img{
+    width: 70%;
+}
+
+.container_elemente{
+    width: 92%;
+    margin: 10vh auto 3vh auto;
+    display: flex;
+}
+
+.container_text{
+    margin: 10vh auto 2vh auto;
+    text-align: left;
+    width: 90%;
+}
+
+.container_text h1{
+    font-size: 1.6rem;
+}
+
+.container_text span{
+    font-weight: 400;
+}
